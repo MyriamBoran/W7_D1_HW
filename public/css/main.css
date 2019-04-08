@@ -1,0 +1,17 @@
+body {
+  font-family: "Rajdhani", sans-serif;
+  text-align: center;
+  margin: 15%;
+  margin-left: 55%;
+  color: white;
+  font-size: 20px;
+}
+
+#button {
+  border: 2px solid orange;
+  border-radius: 1em;
+  font-family: "Rajdhani", sans-serif;
+  padding: 5px;
+  margin-top: 20px;
+  font-size: 15px;
+}
